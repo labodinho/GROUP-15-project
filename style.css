@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Open+Sans:wght@700&family=Poppins:wght@200;400;500;600;700&display=swap');
+
+
+body{
+    background-color: #000000;
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+main{
+    margin: 197px 300px 0px 300px;
+}
+
+.main-head{ 
+
+    text-align: center;
+}
+
+.head-txt1{
+    font-size: 65px;
+    line-height: 80px;
+    font-weight: 800;
+    text-align: center;
+    width: 80%;
+    padding-left: 100px;
+}
+
+.head-txt2{
+    font-size: 26px;
+    line-height: 0px;
+    color: #EEEEEE;
+}
+
+.first-lin{
+    background-image: linear-gradient(to right, #EF7C50 20%, #A552CE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+.second-lin{
+    background-image: linear-gradient(to right, #9354e1 20%, #28A775 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+.img1{
+    margin: 0px 80px;
+}
+
+
+.text-body{
+    color: #eeeeee;
+}
+
+.txt-below-1{
+    font-size: 19.2px;
+}
+
+.flow-head{
+    font-size: 32px;
+    line-height: 10px;
+}
+
+.txt-below{
+    font-size: 16px;
+}
+
+.stacks-flow{
+    display: flex;
+    gap: 20px;
+}
+
+.col-1{
+    display: flex;
+    gap: 50px;
+}
+
+.img4{
+    padding-top: 50px;
+    height:283px;
+}
+
+.col-txt{
+    padding-top: 35px;
+}
+
+.txt-top{
+    font-size: 20px;
+    line-height: 5px;
+}
+.txt-blw{
+    font-size: 16px;
+}
+
+.img3{
+    width: 30%;
+    padding: 20px 0px 10px 0px;
+}
+
